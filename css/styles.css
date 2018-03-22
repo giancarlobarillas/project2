@@ -1,3 +1,6 @@
+body{
+    background-color:lightgray;
+}
 h1{
     text-align: center;
 }
@@ -24,5 +27,9 @@ li a.nav{
 }
 li a:hover{
     background: #111;
+}
+img.center{
+    margin-left: auto;
+    margin-right: auto;
 }
 
