@@ -35,6 +35,10 @@ img.center{
     display: block;
     margin: auto;
 }
+img.keyboardcss{
+    width: 100px;
+    height: 55px;
+}
 div.aboutme{
     margin-left: 10%;
     margin-right: 10%;
@@ -59,7 +63,6 @@ div.resumecenter{
     font-family: sans-serif;
     background-color: lightgray;
 }
-
 li a.active{
     background-color: black;
 }
