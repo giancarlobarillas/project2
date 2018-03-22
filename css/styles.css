@@ -35,8 +35,13 @@ img.center{
 div.aboutme{
     margin-left: 10%;
     margin-right: 10%;
-    margin-top:-25px;
+    margin-top:-26px;
     font-size: 20px;
     background-color: lightgray;
 }
+div.info{
+    width: 50%;
+    margin: 0 auto;
+}
+
 
