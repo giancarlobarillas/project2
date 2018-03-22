@@ -30,22 +30,23 @@ li a.nav{
 }
 li a:hover{
     background: #111;
+    color: white;
 }
 img.center{
     display: block;
     margin: auto;
 }
 img.keyboardcss{
-    width: 100px;
-    height: 55px;
+    width: 600px;
+ 
 }
-div.aboutme{
+div.centerall{
     margin-left: 10%;
     margin-right: 10%;
-    margin-top:-26px;
-    font-size: 20px;
-    background-color: lightgray;
+    margin-top:-23px;
+    font-size: 17px;
     font-family: sans-serif;
+    background-color: lightgray;
 }
 div.info{
     display: table;
@@ -54,14 +55,6 @@ div.info{
     border-radius: 20px;
     border-style: solid;
     
-}
-div.resumecenter{
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top:-23px;
-    font-size: 17px;
-    font-family: sans-serif;
-    background-color: lightgray;
 }
 li a.active{
     background-color: black;
@@ -78,6 +71,13 @@ h4{
 }
 ul.extra{
     list-style-type: circle;
+}
+h3{
+    text-align: center;
+    border-style: solid;
+    border-radius: 20px;
+    background-color:chartreuse;
+    tex
 }
 
 
