@@ -80,6 +80,15 @@ h3{
     font-size: 30px;
     font-family:monospace;
 }
+h3.clear{
+    text-align: left;
+    border: none;
+    background-color: lightgray;
+    font-size: 20px  
+}
+h4.clear{
+    font-size: 17px;
+}
 
 
 
