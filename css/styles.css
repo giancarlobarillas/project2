@@ -1,9 +1,7 @@
 body{
     background-color:gray;
 }
-body.resume{
-    background-color: lightgray;
-}
+
 body.pratice{
     background-color: lightgray;
 }
@@ -55,12 +53,18 @@ div.info{
     border-style: solid;
     
 }
+div.resumecenter{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top:-23px;
+    font-size: 17px;
+    background-color: lightgray;
+}
 li a.active{
     background-color: black;
 }
 div.contactinfo{
     text-align: right;
-    font-size: 20px;
 }
 a.clear{
     text-decoration: none;
