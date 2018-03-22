@@ -44,6 +44,7 @@ div.aboutme{
     margin-top:-26px;
     font-size: 20px;
     background-color: lightgray;
+    font-family: sans-serif;
 }
 div.info{
     display: table;
@@ -58,8 +59,10 @@ div.resumecenter{
     margin-right: 10%;
     margin-top:-23px;
     font-size: 17px;
+    font-family: sans-serif;
     background-color: lightgray;
 }
+
 li a.active{
     background-color: black;
 }
@@ -70,5 +73,12 @@ a.clear{
     text-decoration: none;
     color: black;
 }
+h4{
+    font-size: 20px;
+}
+ul.extra{
+    list-style-type: circle;
+}
+
 
 
