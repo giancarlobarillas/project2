@@ -5,3 +5,24 @@ h1.clear{
     text-align: left;
 }
 
+ul.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #333;
+}
+li.nav{
+    float:left;
+}
+li a.nav{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background: #111;
+}
+
